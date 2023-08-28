@@ -3,12 +3,12 @@ Collection of various Red Teaming and Penetration Tools
 
 **Curent Items**
 
-- **C2 Library** - Libraryy of various C2 Server and Client scripts that go with a guide I wrote. There is a readme for operations below and in the folder.
+- **C2 Library** - Libraryy of various C2 Server and Client scripts that go with a guide I wrote.  https://milosilo.com/hacking/command-and-controlc2-systems-with-examples/ There is a readme for operations below and in the folder.
 
 
 
 # Command and Control (C2) System
-
+https://milosilo.com/hacking/command-and-controlc2-systems-with-examples/
 ## Overview
 This repository contains a simplified Command and Control (C2) system implemented in Python. The C2 server controls a client, allowing for various operations like file transfer, remote script execution, and general command execution.
 
