@@ -7,7 +7,7 @@ Collection of various Red Teaming and Penetration Tools
 
   - https://milosilo.com/hacking/command-and-controlc2-systems-with-examples/
 
-  - There is a readme for operations below and in the folder.
+  - There is a readme for operations below and in the c2 library folder.
 
 
 
