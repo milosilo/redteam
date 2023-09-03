@@ -1,6 +1,6 @@
 # Red Team Collection
 
-![red team collection](https://preview.redd.it/9oylmz80pylb1.jpg)
+![red team collection](https://redd.it/9oylmz80pylb1.jpg)
 
 Collection of various red teaming and penetration testing Ssripts with no guarrantees of everyhting working.
 **Curent Items** 
