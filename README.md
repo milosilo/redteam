@@ -1,6 +1,6 @@
-# Red Team Collection
+# Red Team Collection(RTC)
 
-![Janice](https://i.redd.it/g7edvoipsylb1.png)
+![RTC](https://i.redd.it/g7edvoipsylb1.png)
 
 Collection of various red teaming and penetration testing Ssripts with no guarrantees of everyhting working.
 **Curent Items** 
