@@ -1,5 +1,5 @@
 <#
-Script Name: PowerShellHistoryBackupDynamic.ps1
+Script Name: Get-PowerShell-History.ps1
 Description: This script dynamically detects the location of a user's PowerShell history file and copies it to a specified destination.
 Usage: PowerShell -ExecutionPolicy Bypass -File Get-PowerShell-History.ps1 -DestinationPath C:\location\location\location
 Created By: Milosilo
